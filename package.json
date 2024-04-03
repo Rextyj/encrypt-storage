@@ -1,5 +1,5 @@
 {
-  "name": "@Rextyj/encrypt-storage",
+  "name": "@rextyj/encrypt-storage",
   "version": "2.12.24",
   "description": "Wrapper for encrypted localStorage and sessionStorage in browser",
   "main": "dist/index.js",
